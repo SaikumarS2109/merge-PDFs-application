@@ -63,8 +63,8 @@ def merge_pdfs():
 
 #Closing the application
 def close_application():
+    root.quit()
     root.destroy()
-    quit()
 
 
 # Root of the application
