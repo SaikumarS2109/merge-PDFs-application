@@ -32,4 +32,3 @@ class files:
         with open(merged_file_name+".pdf", "wb") as new_file:
             merger.write(new_file)
         
-#pyinstaller --onefile --windowed application.py
