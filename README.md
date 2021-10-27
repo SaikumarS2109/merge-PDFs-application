@@ -1,7 +1,7 @@
 
 # Merge PDFs Application
 
-This application aims to merge pdfs in a given folder using python.
+This application aims to merge pdfs in a given folder using python. The GUI of the application is using the tkinter library of python
 
 
 ## Dependencies
